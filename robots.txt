@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prakash12343232.github.io/ZENO-AI/sitemap.xml
